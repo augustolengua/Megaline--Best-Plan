@@ -1,5 +1,5 @@
 ## Data:
-+
+
 Tabla *Calls*
 - 'id' — identificador único de la llamada
 - 'user_id' — identificador del usuario que realiza la llamada
@@ -31,6 +31,7 @@ Tabla *Plans*
 ## Goal:
 
 Determinar cuál de los planes genera más ingresos para ajustar el presupuesto de publicidad.
+
 Probar las hipótesis:
 - El ingreso promedio de los usuarios de las tarifas Ultimate y Surf difiere.
 - El ingreso promedio de los usuarios en el área de estados Nueva York-Nueva Jersey es diferente al de los usuarios de otras regiones.
